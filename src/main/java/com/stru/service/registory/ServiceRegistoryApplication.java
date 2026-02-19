@@ -10,7 +10,6 @@ public class ServiceRegistoryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServiceRegistoryApplication.class, args);
-        System.out.println("test");
 	}
 
 }
